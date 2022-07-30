@@ -13,6 +13,12 @@ body
     margin: 0;
     padding: 0.5cm;
 }
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 #cabecera stagline
 {
     padding: 0 0 0 1cm;
